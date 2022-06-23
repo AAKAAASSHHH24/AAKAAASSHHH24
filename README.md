@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AAKAAASSHHH24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Akash Kr Rakshit
+- 👀 I’m interested in Data Science, Machine Learning and Football Analytics.
+- 🌱 I’m currently learning end to end Machine learning Projects.
+- 💞️ I’m looking to collaborate on projects of my interests
+- 📫 How to reach me 
 
 <!---
 AAKAAASSHHH24/AAKAAASSHHH24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Kr Rakshit
-- 👀 I’m interested in Data Science, Machine Learning and Football Analytics.
+- 👀 I’m interested in Data Science, Machine Learning and Football related Data Analytics.
 - 🌱 I’m currently learning end to end Machine learning Projects.
 - 💞️ I’m looking to collaborate on projects of my interests
 - 📫 How to reach me 

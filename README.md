@@ -49,4 +49,11 @@ You can click the Preview link to take a look at your changes.
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akash-rakshit-020761175/#gh-dark-mode-only)
 
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+

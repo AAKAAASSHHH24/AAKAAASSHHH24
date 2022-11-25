@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAKAAASSHHH24&layout=compact)](https://github.com/AAKAAASSHHH24/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AAKAAASSHHH24)](https://github.com/AAKAAASSHHH24/github-readme-stats)

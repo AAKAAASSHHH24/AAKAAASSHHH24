@@ -13,3 +13,6 @@ You can click the Preview link to take a look at your changes.
 <img 
    src="https://github-readme-stats.vercel.app/api?username=AAKAAASSHHH24&show_icons=true&theme=tokyonight" 
 />
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AAKAAASSHHH24&repo=github-readme-stats)](https://github.com/AAKAAASSHHH24/github-readme-stats)

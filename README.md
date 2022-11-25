@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/AAKAAASSHHH24/csstox/pull/26) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
-2. 🎉 Merged PR [#25](https://github.com/AAKAAASSHHH24/csstox/pull/25) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
-3. 🎉 Merged PR [#27](https://github.com/AAKAAASSHHH24/csstox/pull/27) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
-4. 🎉 Merged PR [#28](https://github.com/AAKAAASSHHH24/csstox/pull/28) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
-5. 🎉 Merged PR [#29](https://github.com/AAKAAASSHHH24/csstox/pull/29) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
-<!--END_SECTION:activity-->
 
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/akash-rakshit-020761175/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akash-rakshit-020761175/#gh-dark-mode-only)
+&nbsp;&nbsp;

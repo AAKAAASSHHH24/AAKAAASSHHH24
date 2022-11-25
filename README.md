@@ -9,6 +9,8 @@ AAKAAASSHHH24/AAKAAASSHHH24 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAKAAASSHHH24)](https://github.com/AAKAAASSHHH24/github-readme-stats)
+
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=AAKAAASSHHH24&show_icons=true&theme=tokyonight" 

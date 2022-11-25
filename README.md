@@ -18,22 +18,11 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAKAAASSHHH24&layout=compact)](https://github.com/AAKAAASSHHH24/github-readme-stats)
 
 
-# file .github/workflows/activity.yml
-name: Update README
-
-            on:
-              schedule:
-                - cron: '*/30 * * * *'
-              workflow_dispatch:
-            
-            jobs:
-              build:
-                runs-on: ubuntu-latest
-                name: Update this repo's README with recent activity
-            
-                steps:
-                  - uses: actions/checkout@v2
-                  - uses: jamesgeorge007/github-activity-readme@master
-                    env:
-                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#26](https://github.com/AAKAAASSHHH24/csstox/pull/26) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
+2. 🎉 Merged PR [#25](https://github.com/AAKAAASSHHH24/csstox/pull/25) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
+3. 🎉 Merged PR [#27](https://github.com/AAKAAASSHHH24/csstox/pull/27) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
+4. 🎉 Merged PR [#28](https://github.com/AAKAAASSHHH24/csstox/pull/28) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
+5. 🎉 Merged PR [#29](https://github.com/AAKAAASSHHH24/csstox/pull/29) in [AAKAAASSHHH24/csstox](https://github.com/AAKAAASSHHH24/csstox)
+<!--END_SECTION:activity-->
 

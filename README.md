@@ -22,7 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/akash-rakshit-020761175/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akash-rakshit-020761175/#gh-dark-mode-only)
-&nbsp;&nbsp;

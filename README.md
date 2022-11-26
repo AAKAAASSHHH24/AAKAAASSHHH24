@@ -1,11 +1,12 @@
  <h1>👋 Hi, I’m Akash Kr Rakshit<h1>
    
-   
+
+</h3>
 - 👀 I’m interested in Data Science related Machine Learning and Deep Learning stacks.
 - 🌱 I’m currently working on Deep learning Projects in Computer Vision.
 - 💞️ I’m looking to collaborate on projects of my interests.
 - 📫 How to reach me: akashrksht@gmail.com
-
+</h3>
 <!---
 AAKAAASSHHH24/AAKAAASSHHH24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAKAAASSHHH24&layout=compact)](https://github.com/AAKAAASSHHH24/github-readme-stats)
 
+ 
 <br />
 <br />
 

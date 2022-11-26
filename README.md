@@ -2,10 +2,12 @@
    
 
 </h3>
+ 
 - 👀 I’m interested in Data Science related Machine Learning and Deep Learning stacks.
 - 🌱 I’m currently working on Deep learning Projects in Computer Vision.
 - 💞️ I’m looking to collaborate on projects of my interests.
 - 📫 How to reach me: akashrksht@gmail.com
+ 
 </h3>
 <!---
 AAKAAASSHHH24/AAKAAASSHHH24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
